@@ -47,3 +47,16 @@ body.version-2 a:active,
   background-color: #7d848a;
   background-color: rgba(116, 135, 134);
 }
+
+#title-container {
+	text-shadow: 0 0 0.25em rgba(127,127,127,1);
+}
+
+.wedding-party-separator {
+	display: none;
+}
+
+.wedding-party-section-items .section-separator {
+	width: 250px;
+	border-bottom: 1px solid #fff;
+}
