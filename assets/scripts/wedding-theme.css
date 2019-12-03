@@ -60,3 +60,8 @@ body.version-2 a:active,
 	width: 250px;
 	border-bottom: 1px solid #fff;
 }
+
+#our-story + .section > .section-items > .item:first-child,
+#our-story + .section > .section-items > .item:first-child + .item-separator {
+  display: none;
+}
